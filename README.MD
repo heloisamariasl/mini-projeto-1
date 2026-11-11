@@ -68,7 +68,7 @@ git clone URL_DO_REPOSITORIO
 Entre na pasta:
 
 ```bash
-cd DoaFacil
+cd mini_projeto_1
 ```
 
 ### 3. Executar
